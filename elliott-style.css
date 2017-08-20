@@ -1,0 +1,33 @@
+body {
+    background-image: url('header.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 20
+}
+
+img {
+  max-width: 600px ;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+article {
+  text-align: center;
+}
+
+}
+
+h1 {
+  background-color: 676767;
+
+}
+
+header {
+  font-size: 10
+  margin-left: auto;
+ margin-right: auto;
+}

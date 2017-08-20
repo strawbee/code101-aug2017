@@ -1,0 +1,51 @@
+header {
+  background: #ccc;
+  color:white;
+  text-align: center;
+  font-size: 30px;
+  padding: 0px;
+  margin: 10px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin:auto;
+    display:grid;
+}
+
+body {
+ background: #ccc;
+}
+body {
+  background: #ccc;
+  color:white;
+  text-align: center;
+  font-size: 30px;
+  padding: 0px;
+  margin: 10px;
+}
+p {
+  color:purple
+}
+
+#pic1 {
+    width: 1000px;
+    height: auto;
+}
+
+#pic2 {
+    transform: rotate(90deg);
+    height: auto;
+    margin:100px 0;
+    padding: 20px;
+    margin:auto;
+}
+
+h1 {
+  color:purple;
+}
+
+ul {
+  list-style-type: none;
+}
